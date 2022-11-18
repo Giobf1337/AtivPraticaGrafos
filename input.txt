@@ -1,0 +1,11 @@
+S
+5
+Aa
+Bb
+Cc
+Dd
+Ee
+Aa, Bb, 5
+Bb, Dd, 1
+Dd, Cc, 2
+Aa, Ee, 7
